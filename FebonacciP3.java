@@ -4,7 +4,7 @@ class  FebonacciP3
 	public static void main(String[]args)
 	{
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter the number");
+		System.out.println("Enter the number here");
 		int num=sc.nextInt();
 		int n1=0;
 		int n2=0;
